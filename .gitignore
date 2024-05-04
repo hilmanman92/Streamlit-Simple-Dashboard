@@ -1,0 +1,5 @@
+# Ignore files ending with a tilde (~)
+*~
+
+# Environments
+.python-version
